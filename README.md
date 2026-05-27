@@ -78,4 +78,4 @@ Example:
 
 ![CPU Monitoring](screenshots/CPU-monitoring.png)
 
-![EC2-Instance](screenshots/ec2-isntance.png)
+![EC2-Instance](screenshots/ec2-instance.png)
